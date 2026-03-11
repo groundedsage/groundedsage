@@ -12,4 +12,4 @@ Building data-oriented systems. Primarily in [Clojure](https://clojure.org) with
 ## Projects
 
 - [**Nirvikalpa**](https://github.com/groundedsage/Nirvikalpa) — A data-oriented WebGPU graphics library for ClojureScript. GPU programming as pure data, all the way down.
-- [**clj-chatbot-ui**](https://github.com/groundedsage/clj-chatbot-ui) — An open-source Clojure chat interface for LLMs.
+- [**clj-chatbot-ui**](https://github.com/groundedsage/clj-chatbot-ui) — An open-source Clojure chat interface for LLMs (demo, built on an older Electric version).
