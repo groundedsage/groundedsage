@@ -7,7 +7,7 @@ Building data-oriented systems. Primarily in [Clojure](https://clojure.org) with
 - Experience across robotics, government, and a crypto market-making prop firm.
 - Former contributor to [Datahike](https://github.com/replikativ/datahike) at Lambdaforge — added ClojureScript support, built admin tooling, and created the [Datalog Console](https://github.com/groundedsage/datalog-console) browser extension.
 - Deep interest in finance, market microstructure, and algorithmic trading.
-- Working with LLMs and AI systems — building knowledge management systems for AI, particularly interested in explainable, non-black-box approaches.
+- Working with LLMs and AI systems — building knowledge management systems for AI, with an interest in explainable approaches like Bayesian methods over black-box models.
 - Based in Bali, Indonesia (GMT+8).
 
 ## Projects
