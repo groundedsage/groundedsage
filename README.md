@@ -4,7 +4,7 @@ Building data-oriented systems. Primarily in [Clojure](https://clojure.org) with
 
 - 8+ years of Clojure. Background in systems design, data-oriented architecture, and functional programming.
 - Experience across robotics, government, and a crypto market-making prop firm.
-- Former contributor to [Datahike](https://github.com/replikativ/datahike) at Lambdaforge — added ClojureScript support, built admin tooling, and created the [Datalog Console](https://github.com/niccolosottile/datahike-browser-extension) browser extension.
+- Former contributor to [Datahike](https://github.com/replikativ/datahike) at Lambdaforge — added ClojureScript support, built admin tooling, and created the [Datalog Console](https://github.com/groundedsage/datalog-console) browser extension.
 - Deep interest in finance, market microstructure, and algorithmic trading.
 - Working with LLMs and AI systems — particularly interested in explainable, non-black-box approaches.
 - Based in Bali, Indonesia (GMT+8).
